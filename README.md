@@ -320,3 +320,6 @@ The application is built with Next.js, a React framework, and TypeScript, a stat
 ## Conclusion
 
 Congratulations! You've successfully built a real-time weather data visualization application using Streamr, Mapbox, Next.js, and TypeScript. This application demonstrates the power of real-time data streams and how they can be used to provide up-to-date, dynamic content in a web application. Whether you're building a weather app, a live dashboard, or any other application that requires real-time data, Streamr provides a powerful, easy-to-use platform for working with real-time data streams.
+
+[TWITTER](https://twitter.com/PSkinnerTech)
+[GITHUB](https://github.com/PSkinnerTech)
